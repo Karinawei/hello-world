@@ -1,6 +1,6 @@
 # hello-world
 
-Hi, humans! 
+> Hi, humans! 
 Welcome to the new world! It sucks, but you're gonna love it.
 
 Start to learn python!
